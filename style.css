@@ -1,0 +1,49 @@
+body {
+  background-image:url("images/bg.jpg");
+  background-size: 100%;
+}
+
+p {
+  color: red;
+  font-size: 30px;
+  font-family: serif;
+  opacity: 0.8;
+}
+
+a {
+  font-style:normal;
+  color: yellow;
+  font-weight: bold;
+}
+
+#tillbaks {
+  position:absolute;
+  left:15px;
+  top:30px;
+}
+
+header {
+  background-color: black;
+  opacity:0.5;
+  font-family:serif;
+  color:pink;
+  height:70px;
+  text-align:center;
+
+}
+
+#badger {
+  width:300px;
+  position:absolute;
+  left:30%;
+  top:30%;
+  opacity:0.6;
+}
+
+.menupic {
+  width:100px;
+}
+
+ul {
+
+}
